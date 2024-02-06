@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.temple{
+  background-image: url(./assets/1.webp);
+  background-size: cover;
+}
+.fondo{
+  background-image: url(./assets/1.webp);
+  background-size: cover;
+}
